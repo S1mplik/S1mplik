@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Danix25</h1>
 
-- 👨‍💻 Daily use: `.py` `.js` `.java`
+- 👨‍💻 Daily use: `.py` `.java`
 - 🤩 Favorite language: `.py`
 - 📈 I started on Visual Basic and end on Python
 - 🥅 2021 Goals: Create more projects on C# and C++
