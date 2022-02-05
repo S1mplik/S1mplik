@@ -3,7 +3,7 @@
 - 👨‍💻 Daily use: `.py` `.java`
 - 🤩 Favorite language: `.py`
 - 📈 I started on Visual Basic and end on Python
-- 🥅 2021 Goals: Create more projects on C# and C++
+- 🥅 2022 Goals: Create more projects on C# and C++
 
 
 
