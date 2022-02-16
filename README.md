@@ -2,7 +2,7 @@
 
 - 👨‍💻 Daily use: `.py` `.java`
 - 🤩 Favorite language: `.py`
-- 📈 I started on Visual Basic and end on Java
+- 📈 I started on Visual Basic
 - 🥅 2022 Goals: Create more projects on C# and C++
 
 
