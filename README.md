@@ -1,9 +1,9 @@
-<h1 align="center">Hi I'm Danix25</h1>
+<h1 align="center">Hi I'm S1mplik</h1>
 
 - 👨‍💻 Daily use: `.py` `.java`
-- 🤩 Favorite language: `.py`
+- 🤩 Favorite language: `.java`
 - 📈 I started on Visual Basic
-- 🥅 2022 Goals: More JavaPlugins. 
+- 🥅 2023 Goals: Build bigger Majnrik and Coldhost. 
 
 
 
